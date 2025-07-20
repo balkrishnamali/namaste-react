@@ -1,1 +1,1 @@
-Namaste React tesname
+Namaste React
