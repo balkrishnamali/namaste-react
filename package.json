@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namaste React",
+  "homepage": "https://github.com/balkrishnamali/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/balkrishnamali/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balkrishnamali/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Balkrishna Mali",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
